@@ -1,2 +1,2 @@
 # FileConverter
- A simple file converter
+ A simple program for converting from .tsv to .csv format. 
